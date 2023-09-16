@@ -1,5 +1,5 @@
 # ProjectStarter
-Creates empty html/css/js files in order to start a new project
+Creates empty html/css/js files in order to start a new project executable at Node.Js
 
 This is just my first script with NodeJS applying 2 processes; mkdirSync & writeFileSync
 
